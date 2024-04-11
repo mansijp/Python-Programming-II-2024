@@ -1,5 +1,5 @@
-Python Programming II 2024 Course from MOOC 
+<h2>Python Programming II 2024 Course from MOOC</h2>
 
-View course: https://programming-24.mooc.fi
+<p>View course: https://programming-24.mooc.fi</p>
 
-Please note: My contributions are only the python files in the 'src' folders.
+<p>Please note: <i>My contributions are only the python files in the 'src' folders.</i></p>
