@@ -12,7 +12,6 @@ class ListHelper:
         greatest_freq = 0
         result = 0
         for key in freq:
-            print("freq[key]", freq[key])
             if freq[key] > greatest_freq:
                 result = key
                 greatest_freq = freq[key]
